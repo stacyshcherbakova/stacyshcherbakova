@@ -13,6 +13,6 @@ I am a research Software Engineer interested in building AI scientists and advan
 ![VAEs](https://img.shields.io/badge/-VAEs-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![GANs](https://img.shields.io/badge/-GANs-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Transformers](https://img.shields.io/badge/-Transformers-161b22?style=flat-square&logo=huggingface&logoColor=FFD43B) ![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ---
 **featured projects**
-- [Genome Minimizer 2](#) — https://github.com/ucl-cssb/genome-minimizer-2
-- [Genome Minimizer UI](#) — https://github.com/stacyshcherbakova/genome-minimizer-ui
-
+- Genome Minimizer 2 — https://github.com/ucl-cssb/genome-minimizer-2
+- Genome Minimizer UI — https://github.com/stacyshcherbakova/genome-minimizer-ui
+- Chemistry Agent using FutureHouse Aviary/LDP framework - https://github.com/stacyshcherbakova/chemistry-agent 
