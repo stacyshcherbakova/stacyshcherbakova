@@ -16,5 +16,5 @@ I am a research Software Engineer interested in building AI scientists and advan
 - BenchGraph — https://github.com/stacyshcherbakova/benchgraph — open-source, local-first tool for biologists to go from experimental data to trustworthy statistics and publication-quality figures, without writing code
 - Genome Minimizer 2 — https://github.com/ucl-cssb/genome-minimizer-2
 - Genome Minimizer UI — https://github.com/stacyshcherbakova/genome-minimizer-ui
-- Chemistry Agent using FutureHouse Aviary/LDP framework - https://github.com/stacyshcherbakova/chemistry-agent 
+- Chemistry Agent — https://github.com/stacyshcherbakova/chemistry-agent — multi-agent chemistry problem solver (GCSE → A-level → university) built on Claude: a planner decomposes the problem, a solver executes every calculation through 39 domain tools, and an independent verifier audits the answer before it is shown
 ---
