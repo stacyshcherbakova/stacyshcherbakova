@@ -10,7 +10,7 @@ Research Software Engineer at the Institute of Cancer Research, London. I build 
 
 **[BenchGraph](https://github.com/stacyshcherbakova/benchgraph)**: open-source, local-first macOS app that takes biologists from experimental data to trustworthy statistics and publication-quality figures without code. Swift library, CLI and SwiftUI app, with 127 golden-value tests checked against SciPy.
 
-**[Genome Minimizer 2](https://github.com/ucl-cssb/genome-minimizer-2)**: variational autoencoders that design minimal E. coli genomes, trained on about 5,500 bacterial genomes. Basis of a first-author preprint.
+**[Genome Minimizer 2](https://github.com/ucl-cssb/genome-minimizer-2)**: variational autoencoders that design minimal E. coli genomes, trained on about 5,500 bacterial genomes. Basis of a [first-author preprint](https://doi.org/10.1101/2024.10.22.619620).
 
 **[Week Wallpaper](https://github.com/stacyshcherbakova/week-wallpaper)**: turns your Apple Calendar meetings and to-dos into a designed macOS desktop wallpaper, in four themes.
 
